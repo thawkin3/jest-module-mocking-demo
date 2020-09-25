@@ -1,0 +1,22 @@
+{
+  "name": "jest-module-mocking-demo",
+  "version": "1.0.0",
+  "description": "Demo app for exploring module mocking within the Jest test framework",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "javascript",
+    "testing",
+    "mocking"
+  ],
+  "author": "Tyler Hawkins",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2"
+  }
+}
